@@ -1,3 +1,26 @@
+Implement a simulator that simulates a single elevator that operates in a n-floor building.
+	● An elevator class
+		○ Able to handle requests from multiple floors
+		○ Able to fulfill requests “optimally” (Describe your metrics in the submitted code)
+		○ Safety features
+			■ Maximum capacity
+			■ Maximum speed
+			■ Emergency stop
+	● A customer class
+		○ Able to request the elevator from floors
+		○ Able to send the elevator
+	● A simulator class
+		○ Able to simulate up to 50 customers
+		○ Can generate a detailed log of the elevator operation
+			■ List of requests (with time) made
+			■ List of action (with time) the elevator took
+			● Test cases
+		○ Test capability of fulfilling customer requests
+		○ Test safety
+
+
+
+
 This is a readme file for Take Home Coding Test - Single Elevator Project.
 
 
